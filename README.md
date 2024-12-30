@@ -16,7 +16,7 @@ I’m a passionate developer with a keen interest in **web development**, **cybe
 
 ## 📫 Get in Touch:
 - Email: [your email address]  
-- LinkedIn: [your LinkedIn profile link](https://www.linkedin.com/in/vamsikrishna781/)  
+- LinkedIn: [click here](https://www.linkedin.com/in/vamsikrishna781/)  
 - Twitter: [your Twitter profile link]  
 
 ---
