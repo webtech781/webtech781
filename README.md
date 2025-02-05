@@ -4,7 +4,7 @@
 
 I’m a passionate developer with a keen interest in **web development**, **cybersecurity**, and **open-source contributions**. I love solving real-world problems through code and building innovative solutions.  
 
-![webtech781's Stats](https://github-readme-stats.vercel.app/api?username=webtech781&theme=blueberry&show_icons=true&hide_border=false&count_private=false)![webtech781's Streak](https://github-readme-streak-stats.herokuapp.com/?user=webtech781&theme=blueberry&hide_border=false)
+![webtech781's Stats](https://github-readme-stats.vercel.app/api?username=webtech781&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
 ![webtech781's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webtech781&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 ---
