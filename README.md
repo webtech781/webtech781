@@ -17,17 +17,6 @@ I’m a passionate developer with a keen interest in **web development**, **cybe
 
 ---
 
-## 📫 Get in Touch:
-- Email: [your email address]  
-- LinkedIn: <a href="https://www.linkedin.com/in/vamsikrishna781/" target="_blank">Click here</a>  
-- Twitter:  <a href="#" target="_blank">Click here</a>   
-
----
-
-## 😄 Fun Fact:
-Did you know? I enjoy exploring cutting-edge technologies and transforming creative ideas into robust applications.  
-
----
 
 Feel free to explore my repositories, and let’s collaborate to make something amazing together! 🌟
 # 🌐 webtech Community
@@ -35,7 +24,7 @@ Feel free to explore my repositories, and let’s collaborate to make something 
 Welcome to webtech - Your Trusted Source for Web Development and Modern Technology Insights!
 
 ## 🌐 Visit Our Website
-[webtech.github.io/webtech](https://webtech.github.io/webtech/)
+[[webtech781.github.io/webtech781](https://webtech.github.io/webtech/)](https://webtech781.github.io/webtech781/)
 
 ## 🚀 About Us
 
@@ -133,7 +122,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📞 Contact Us
 
-- Website: [webtech.github.io/webtech](https://webtech.github.io/webtech/)
+- Website: [webtech.github.io/webtech](https://webtech781.github.io/webtech781/)
 - Email: contact@webtech.com
 - GitHub: [@webtech781](https://github.com/webtech781)
 - YouTube: [@webtech](https://www.youtube.com/@webtech)
