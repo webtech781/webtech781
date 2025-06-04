@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Services - webtech</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo1.jpg" rel="icon">
+  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/disable.css" rel="stylesheet">
+
+  <!-- Add these styles in the head section -->
+  <style>
+    /* Fix scrolling and responsive issues */
+    html, body {
+      height: 100%;
+      overflow-y: auto;
+    }
+
+    #main {
+      min-height: 100vh;
+      padding-top: 80px; /* Reduced from 100px */
+      padding-bottom: 60px;
+    }
+
+    .blog-details {
+      position: relative;
+      padding: 20px 0;
+    }
+
+    .blog-post {
+      background: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+      margin: 0 15px; /* Add margin for mobile */
+    }
+
+    .post-img {
+      margin: -20px -20px 20px -20px;
+    }
+
+    .post-img img {
+      width: 100%;
+      max-height: 250px;
+      object-fit: contain;
+      border-radius: 15px 15px 0 0;
+    }
+
+    /* Back to blogs button */
+    .back-to-blogs {
+      position: relative; /* Changed from sticky */
+      padding: 10px 15px;
+      margin-bottom: 20px;
+      background: transparent;
+    }
+
+    .back-to-blogs .btn-outline-primary {
+      border-color: #34b7a7;
+      color: #34b7a7;
+      background: transparent;
+      transition: all 0.3s ease;
+      font-size: 14px;
+      padding: 8px 15px;
+    }
+
+    .back-to-blogs .btn-outline-primary:hover {
+      background-color: #34b7a7;
+      border-color: #34b7a7;
+      color: white;
+      transform: translateX(-5px);
+    }
+
+    /* Content styling */
+    .content {
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    .title {
+      font-size: 24px;
+      line-height: 1.3;
+      margin-bottom: 20px;
+    }
+
+    .meta-top {
+      margin-bottom: 25px;
+    }
+
+    .meta-top ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      padding: 0;
+      margin: 0;
+    }
+
+    .meta-top li {
+      font-size: 14px;
+    }
+
+    .content h3 {
+      font-size: 20px;
+      margin: 25px 0 15px;
+    }
+
+    .content ul, .content ol {
+      padding-left: 20px;
+      margin-bottom: 20px;
+    }
+
+    .content li {
+      margin-bottom: 8px;
+      font-size: 15px;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      #main {
+        padding-top: 70px;
+      }
+
+      .blog-post {
+        padding: 15px;
+        margin: 0 10px;
+      }
+
+      .post-img {
+        margin: -15px -15px 15px -15px;
+      }
+
+      .title {
+        font-size: 20px;
+      }
+
+      .content {
+        font-size: 15px;
+      }
+
+      .content h3 {
+        font-size: 18px;
+      }
+
+      .meta-top ul {
+        gap: 10px;
+      }
+
+      .meta-top li {
+        font-size: 13px;
+      }
+
+      .notice-box, .download-section {
+        padding: 15px;
+        margin: 20px -5px;
+      }
+    }
+
+    @media (max-width: 576px) {
+      .blog-post {
+        margin: 0 5px;
+      }
+
+      .back-to-blogs {
+        padding: 10px;
+      }
+
+      .content h3 {
+        font-size: 17px;
+      }
+
+      .content li {
+        font-size: 14px;
+      }
+    }
+
+    /* Container adjustments */
+    @media (min-width: 1200px) {
+      .container {
+        max-width: 1140px;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">webtech</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a class="active" href="Blogs.html">Blogs</a></li>
+          <li><a href="about.html">About</a></li>
+          <!-- <li><a href="resume.html">Resume</a></li> -->
+          <li><a  href="Downloads.html">Downloads</a></li>
+          <li><a href="Projects.html">Projects</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <div class="header-social-links">
+        <!-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> -->
+        <a href="https://github.com/webtech781" target="_blank" class="github"><i class="bi bi-github"></i></i></a>
+      </div>
+
+    </div>
+
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <div class="back-to-blogs mb-4">
+      <div class="container">
+        <a href="Blogs.html" class="btn btn-outline-primary">
+          <i class="bi bi-arrow-left me-2"></i>Back to Blogs
+        </a>
+      </div>
+    </div>
+    <!-- ======= Blog Section ======= -->
+    <!-- Blog Post Content -->
+    <section id="burpsuite" class="blog-details">
+      <div class="container" data-aos="fade-up">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <article class="blog-post">
+              <div class="post-img">
+                <img src="Resoures/burpsute_pro/burpsuite-logo.svg" alt="Burp Suite Pro" class="img-fluid">
+              </div>
+
+              <h2 class="title">Complete Guide to Burp Suite Professional</h2>
+
+
+              <div class="meta-top">
+                <ul class="d-flex flex-wrap gap-4 list-unstyled">
+                  <li class="d-flex align-items-center">
+                    <i class="bi bi-person me-2"></i>
+                    <a href="about.html">Vamshi Krishna</a>
+                  </li>
+                  <li class="d-flex align-items-center">
+                    <i class="bi bi-clock me-2"></i>
+                    <time datetime="2024-03-01">Mar 1, 2024</time>
+                  </li>
+                  <li class="d-flex align-items-center">
+                    <i class="bi bi-tags me-2"></i>
+                    <a href="Blogs.html?category=security">Security Tools</a>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="content">
+                <h3>Introduction</h3>
+                <p>
+                  Burp Suite Professional is one of the most powerful and widely-used web security testing tools. It's an essential 
+                  toolkit for security professionals, penetration testers, and bug bounty hunters. In this guide, we'll explore its 
+                  key features and how to get started.
+                </p>
+
+                <h3>Key Features</h3>
+                <ul>
+                  <li><strong>Proxy</strong> - Intercept and modify HTTP/HTTPS traffic</li>
+                  <li><strong>Scanner</strong> - Automated vulnerability detection</li>
+                  <li><strong>Repeater</strong> - Manual request manipulation and testing</li>
+                  <li><strong>Intruder</strong> - Automated customized attacks</li>
+                  <li><strong>Collaborator</strong> - Detect out-of-band vulnerabilities</li>
+                  <li><strong>Extensions</strong> - Add custom functionality</li>
+                </ul>
+
+                <h3>System Requirements</h3>
+                <p>Before installing Burp Suite Pro, ensure your system meets these requirements:</p>
+                <ul>
+                  <li>Java 8 (JDK or JRE)</li>
+                  <li>4GB RAM minimum (8GB recommended)</li>
+                  <li>Windows 10/11, macOS, or Linux</li>
+                  <li>Stable internet connection</li>
+                </ul>
+
+                <h3>Installation Guide</h3>
+                <p>Follow these steps to install Burp Suite Professional:</p>
+                <ol>
+                  <li>Download JDK 8 from the provided link in our Downloads section</li>
+                  <li>Install JDK 8 on your system</li>
+                  <li>Download Burp Suite Pro from our Downloads page</li>
+                  <li>Extract the downloaded zip file</li>
+                  <li>Run the installer/loader as per the included instructions</li>
+                </ol>
+
+                <h3>Getting Started</h3>
+                <p>
+                  After installation, here are some essential steps to get started:
+                </p>
+                <ol>
+                  <li>Configure your browser to use Burp's proxy (default: 127.0.0.1:8080)</li>
+                  <li>Install Burp's CA certificate in your browser</li>
+                  <li>Familiarize yourself with the interface and basic features</li>
+                  <li>Start with the Proxy tool to understand web traffic</li>
+                </ol>
+
+                <h3>Best Practices</h3>
+                <p>
+                  When using Burp Suite Professional, keep these best practices in mind:
+                </p>
+                <ul>
+                  <li>Always obtain proper authorization before testing any website</li>
+                  <li>Use scope settings to limit your testing to authorized targets</li>
+                  <li>Save your work regularly using project files</li>
+                  <li>Keep Burp Suite and its extensions updated</li>
+                  <li>Use resource pools to manage system resources effectively</li>
+                </ul>
+
+                <div class="notice-box">
+                  <h4><i class="bi bi-exclamation-triangle"></i> Important Notice</h4>
+                  <p>
+                    This tool is for educational and authorized testing purposes only. Always ensure you have proper permission 
+                    before testing any website or application. Unauthorized testing may be illegal in your jurisdiction.
+                  </p>
+                </div>
+
+                <div class="download-section">
+                  <h3>Ready to Get Started?</h3>
+                  <p>
+                    Download Burp Suite Professional from our <a href="Downloads.html">Downloads page</a>. Make sure to read the 
+                    installation instructions carefully.
+                  </p>
+                  <a href="Downloads.html" class="btn btn-primary">
+                    <i class="fas fa-download me-2"></i>Download Now
+                  </a>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>webtech</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        Designed by <a href="https://github.com/webtech781" target="_blank">WEBTECH</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+
+</body>
+
+</html>

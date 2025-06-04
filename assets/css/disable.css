@@ -1,0 +1,30 @@
+ /* Overlay styles */
+ #overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(5px); /* Adds the blur effect */
+  }
+  .overlay-content {
+    text-align: center;
+    color: white;
+  }
+  .overlay-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  .overlay-content p {
+    font-size: 1.5rem;
+  }
+
+  /* Disable page interactions when the overlay is active */
+  body {
+    overflow: hidden;
+  }
