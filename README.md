@@ -8,7 +8,7 @@ I’m a passionate developer with a strong interest in **web development**, **cy
 ![webtech781's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webtech781&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 ![Visitors](https://komarev.com/ghpvc/?username=webtech781&color=blue)
-![License](https://img.shields.io/github/license/webtech781/webtech)
+![License](https://img.shields.io/github/license/webtech781/webtech781)
 
 ---
 
