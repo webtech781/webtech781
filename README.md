@@ -2,6 +2,7 @@
 <div style="text-align: center;">
  <img src="https://github.com/webtech781/webtech781/blob/main/assets/img/banner.png" width="700" />
 </div>
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=$+Developer+focused+on+satellites+and+Mars+initiatives;)](https://git.io/typing-svg)
 🌟 **Welcome to my GitHub profile!** 🌟  
 
 I’m a passionate developer with a strong interest in **web development**, **cybersecurity**, and **open-source collaboration**. I enjoy solving real-world problems through code and building innovative digital solutions.
