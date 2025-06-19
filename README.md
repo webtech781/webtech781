@@ -5,7 +5,8 @@
 <p >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=289BF9&center=true&vCenter=true&width=440&lines=$+Full-Stack+Python+Developer;$+Web+Development+Enthusiast;$+Cybersecurity+Advocate;$+Open-Source+Contributor" alt="Typing SVG" />
 </p>
-
+---
+---
 🌟 **Welcome to my GitHub profile!** 🌟  
 
 I’m a passionate developer with a strong interest in **web development**, **cybersecurity**, and **open-source collaboration**. I enjoy solving real-world problems through code and building innovative digital solutions.
