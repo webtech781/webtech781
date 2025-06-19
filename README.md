@@ -38,6 +38,7 @@ I’m a passionate developer with a strong interest in **web development**, **cy
 ## 📂 Featured Projects
 
 - 🔗 [**YTMate**](https://github.com/webtech781/YTMate): A full-featured YouTube utility tool built with Python and a sleek, modern UI.
+- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/webtech781/vaultmate-gui/)
 
 ---
 
