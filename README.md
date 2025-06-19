@@ -1,12 +1,14 @@
 # 👋 Hi, I’m @webtech781
-
+<div style="text-align: center;">
+ <img src="https://github.com/webtech781/webtech781/blob/main/assets/img/banner.png" width="700" />
+</div>
 🌟 **Welcome to my GitHub profile!** 🌟  
 
 I’m a passionate developer with a strong interest in **web development**, **cybersecurity**, and **open-source collaboration**. I enjoy solving real-world problems through code and building innovative digital solutions.
 
 ![webtech781's Stats](https://github-readme-stats.vercel.app/api?username=webtech781&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
 ![webtech781's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webtech781&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,flask,fastapi,nodejs,mongodb,mysql,sqlite,git,github,docker,vscode,linux)](https://skillicons.dev)
 ![Visitors](https://komarev.com/ghpvc/?username=webtech781&color=blue)
 ![License](https://img.shields.io/github/license/webtech781/webtech781)
 
