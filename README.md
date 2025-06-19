@@ -3,7 +3,7 @@
  <img src="https://github.com/webtech781/webtech781/blob/main/assets/img/banner.png" width="700" />
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=289BF9&center=true&vCenter=true&width=440&lines=Full-Stack+Python+Developer;Web+Development+Enthusiast;Cybersecurity+Advocate;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=289BF9&center=true&vCenter=true&width=440&lines=$+Full-Stack+Python+Developer;$+Web+Development+Enthusiast;Cybersecurity+Advocate;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 🌟 **Welcome to my GitHub profile!** 🌟  
