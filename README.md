@@ -38,7 +38,7 @@ I’m a passionate developer with a strong interest in **web development**, **cy
 ## 📂 Featured Projects
 
 - 🔗 [**YTMate**](https://github.com/webtech781/YTMate): A full-featured YouTube utility tool built with Python and a sleek, modern UI.
-- [![vaultmate-gui](https://github-readme-stats.vercel.app/api/pin/?username=webtech781&repo=vaultmate-gui_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/webtech781/vaultmate-gui/)
+- [![vaultmate-gui](https://github-readme-stats.vercel.app/api/pin/?username=webtech781&repo=vaultmate-gui&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/webtech781/vaultmate-gui/)
 
 ---
 
